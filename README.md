@@ -21,7 +21,7 @@
 
 ## 📊 Github Stats
 
-<div align="center"> 
+<div align="left"> 
   <a href="https://github.com/RealVineetCoder#gh-dark-mode-only">
     <img
       src="https://github-readme-stats-steel-omega.vercel.app/api?username=RealVineetCoder&show_icons=true&include_all_commits=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-dark-mode-only"
